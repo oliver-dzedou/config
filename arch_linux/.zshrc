@@ -62,6 +62,7 @@ update_prompt
 alias python="python3"
 
 # Misc
+alias obsidian="/usr/local/bin/Obsidian.AppImage &"
 alias rc="nvim ~/.zshrc"
 alias rrc="source ~/.zshrc"
 alias ls="ls -FGha"
